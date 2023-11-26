@@ -5,8 +5,6 @@ def transformFile(inputFile, outputFile):
     with codecs.open(inputFile, 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
-    print(lines)
-
     results = []
 
     for line in lines:
@@ -14,6 +12,10 @@ def transformFile(inputFile, outputFile):
 
         if line != "":
             user_input = input(line + " : ")
+
+            if user_input == "--" : 
+                results.append(["--", 0])
+                user_input = input(line + " : ")
 
             results.append([line, int(user_input)])
 
