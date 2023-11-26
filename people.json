@@ -1,0 +1,78 @@
+{
+    "1" : {
+        "firstname" : "Arthur",
+        "lastname" : "Pendragon",
+        "info" : "Arthur Pendragon est le personnage principal de Kaamelott et le roi à la tête du Royaume de Logres, régnant sur toute l'île de Bretagne et les pays alliés car il détient Excalibur. Les Dieux l'ont désigné pour construire la Table Ronde autour de laquelle il a rassemblé les chevaliers de la Table Ronde pour mener à bien la quête du Graal. ",
+        "actor" : "Alexandre Astier"
+    },
+    "2" : {
+        "firstname" : "Léodagan",
+        "lastname" : "de Carmélide",
+        "info" : "Léodagan (dit « le Sanguinaire ») est le roi de la Carmélide et un chevalier de la Table Ronde. Il est le père de la reine de Bretagne Guenièvre, qu'il a mariée au roi Arthur pour sécuriser une place au pouvoir. Il est en effet responsable de la défense du Royaume de Logres.",
+        "actor" : "Lionnel Astier"
+    },
+    "3" : {
+        "firstname" : "Perceval",
+        "lastname" : "de Galles",
+        "info" : "Le seigneur Perceval de Galles, ou simplement Perceval, est un chevalier de la Table Ronde originaire du Pays de Galles.",
+        "actor" : "Franck Pitiot"
+    },
+    "4" : {
+        "firstname" : "Karadoc",
+        "lastname" : "de Vannes",
+        "info" : "Le seigneur Karadoc de Vannes, ou simplement Karadoc, est un chevalier de la Table Ronde. ",
+        "actor" : "Jean-Christophe Hembert"
+    },
+    "5" : {
+        "firstname" : "Bohort",
+        "lastname" : "",
+        "info" : "Bohort, parfois dit le Jeune pour le démarquer de son père Bohort de Gaunes, est un chevalier de la Table Ronde et le roi de Gaunes. ",
+        "actor" : "Nicolas Gabion"
+    },
+    "6" : {
+        "firstname" : "Séli",
+        "lastname" : "",
+        "info" : "Séli est la mère de la reine Guenièvre, d'Yvain et la femme de Léodagan de Carmélide.",
+        "actor" : "Joëlle Sevilla"
+    },
+    "7" : {
+        "firstname" : "Guenièvre",
+        "lastname" : "Pendragon",
+        "info" : "Guenièvre est la femme d'Arthur Pendragon et la reine de Bretagne. C'est aussi la fille de Léodagan de Carmélide et de Séli, et donc la princesse de Carmélide.",
+        "actor" : "Anne Girouard"
+    },
+    "8" : {
+        "firstname" : "La Dame du Lac",
+        "lastname" : "",
+        "info" : "La Dame du Lac, de son vrai nom Viviane, est une fée envoyée par les dieux sur Terre pour guider Arthur et ses chevaliers dans la quête du Graal.",
+        "actor" : "Audrey Fleurot"
+    },
+    "9" : {
+        "firstname" : "Père Blaise",
+        "lastname" : "",
+        "info" : "Le Père Blaise est le prêtre chrétien de Kaamelott ainsi que l'érudit du château.",
+        "actor" : "Jean-Robert Lombard"
+    },
+    "10" : {
+        "firstname" : "Lancelot du Lac",
+        "lastname" : "",
+        "info" : "Lancelot du Lac est un chevalier de la Table Ronde, notamment le seul relativement compétent. Il est également le fils du roi Ban, bien qu'il cache son lien de parenté en raison de son statut autoproclamé de chevalier errant. D'abord fidèle au Roi Arthur, il se retournera cependant contre ce dernier, n'étant pas d'accord avec ses méthodes, et partira fonder son propre clan autonome dans la forêt, afin de mener lui-même la recherche du Graal.",
+        "actor" : "Thomas Cousseau"
+    },
+    "11" : {
+        "firstname" : "Galessin",
+        "lastname" : "",
+        "info" : "Galessin est le duc d'Orcanie et le bras droit du roi Loth.",
+        "actor" : "Alexis Henon"
+    },
+    "101" : {
+        "firstname" : "Breccan",
+        "resum" : "Breccan est un artisan irlandais. C'est lui qui a construit la Table Ronde",
+        "Appearance" : ["La Table De Breccan", "La Table De Breccan"],
+        "actor" : "Yvan Le Bolloc'h"
+
+    }
+
+
+    
+}
